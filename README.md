@@ -1,3 +1,6 @@
+As questões devem ser executadas após o Script Filmes.sql, que alimenta o banco de dados. Para a questão 7, há duas versões, pois a achei ambígua, então fiz uma versão como ordenada pela quantidade na *a* e outra ordenada pelo somatório das durações no ano (sem exibir a duração em si) em *b*.
+
+
 # DIO - Trilha .NET - Banco de Dados
 www.dio.me
 

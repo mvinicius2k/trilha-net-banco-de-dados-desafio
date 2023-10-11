@@ -1,0 +1,1 @@
+SELECT PrimeiroNome, UltimoNome, Genero FROM Atores
